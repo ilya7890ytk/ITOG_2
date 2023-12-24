@@ -46,18 +46,6 @@ body {
   opacity: 0.7;
 }
 
-.button-order {
-  all: unset;
-  padding: 22px 55px;
-  background: brown;
-  border-radius: 5px;
-  color: #FFFDD0;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 19px;
-
-}
-
 .main {
   max-width: 900px;
 }
